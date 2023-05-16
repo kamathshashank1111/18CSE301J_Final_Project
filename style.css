@@ -328,3 +328,8 @@ p{
 .hh{
   color: #FF9900;
 }
+#footer{
+  background-color: #ddd;
+  height: 55px;
+  text-align: center;
+}
